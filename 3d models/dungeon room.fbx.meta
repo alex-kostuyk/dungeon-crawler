@@ -7,13 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Board
+    second: {fileID: 2100000, guid: 89c10e63768e38c4097b3e650b377570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Concreate
     second: {fileID: 2100000, guid: 85fc686ea134ca84a939912a5fe12e50, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Medieval wall
-    second: {fileID: 2100000, guid: d76c2f8ebef80d4498ae6cda604ba3e4, type: 2}
+    second: {fileID: 2100000, guid: dae68766aed935d409e026f14527f41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: d39bb30acdbe61e4f91644501272a842, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -23,6 +33,16 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stylized Dungeon Floor
+    second: {fileID: 2100000, guid: d76c2f8ebef80d4498ae6cda604ba3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_wooden_planks
+    second: {fileID: 2100000, guid: 245af5d7bc6c0e04e9609444e97f37e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monastery_stone_floor
     second: {fileID: 2100000, guid: d76c2f8ebef80d4498ae6cda604ba3e4, type: 2}
   materials:
     materialImportMode: 2

@@ -510,7 +510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d08ce26990eb1a4a9177b860541e702, type: 3}
   m_Name: Exposure
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   m_AdvancedMode: 0
   mode:
     m_OverrideState: 1
@@ -529,10 +529,10 @@ MonoBehaviour:
     m_Value: 0
   limitMin:
     m_OverrideState: 1
-    m_Value: -1.6129024
+    m_Value: 4.8387103
   limitMax:
     m_OverrideState: 1
-    m_Value: 7.823429
+    m_Value: 1.7062823
   curveMap:
     m_OverrideState: 0
     m_Value:
@@ -627,7 +627,7 @@ MonoBehaviour:
     m_Value: {fileID: 0}
   histogramPercentages:
     m_OverrideState: 1
-    m_Value: {x: 10, y: 90}
+    m_Value: {x: 7.194951, y: 87.194954}
     min: 0
     max: 100
   histogramUseCurveRemapping:
