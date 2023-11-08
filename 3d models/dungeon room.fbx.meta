@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Medieval wall
-    second: {fileID: 2100000, guid: dae68766aed935d409e026f14527f41c, type: 2}
+    second: {fileID: 2100000, guid: d76c2f8ebef80d4498ae6cda604ba3e4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
